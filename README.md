@@ -1,1 +1,1 @@
-# Verifi-Account-avascript
+# Verifi-Account-javascript
